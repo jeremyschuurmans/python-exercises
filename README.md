@@ -1,2 +1,3 @@
 # python-exercises
-Just for practice
+
+For practice and teaching
